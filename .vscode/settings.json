@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Country Club",
+            "database": "${workspaceFolder:Springboard-Course-Work}/SQL_Project/sqlite_db_pythonsqlite.db"
+        }
+    ]
+}
